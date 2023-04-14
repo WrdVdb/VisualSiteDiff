@@ -1,0 +1,29 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+}
+
+input{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+    padding:5px 10px;
+}
+
+table.border{
+    border: 1px solid #BFBFBF;
+    border-collapse: collapse;
+}
+
+table.border td{
+    border: 1px solid #BFBFBF;
+    padding:0.2rem 0.5rem;
+    vertical-align: top;
+}
+
+a{
+    text-decoration: underline;
+}
+
+.divider:after {
+    border-left-color: rgba(0,0,0,0.5);
+}
